@@ -1,6 +1,11 @@
 ## Web-Blog-Application-For-Information-Exchange
 A Website for students to learn by creating blogs and teachers to proof check them, providing a single platform for students to grasp concepts in their fields.
 
+## Tech Stack 
+1. React Js (Front End)
+2. Express Js (Back End)
+3. Mongoose/ MongoDB (Database)
+
 ## Functionalities of Application
  1. Reponsive UI
  2. Blog Editor
